@@ -26,6 +26,8 @@ I started using the CSS stylesheets
 
 3. You can make changes to those files in the "src/app" directory
 
+4. Add a [Router](https://angular.io/guide/router) that allows you to navigate to pages. I followed the directions under **Generate an app with routing enabled**
+
 # Notes
 
 - [Angular Setup](https://angular.io/start)
